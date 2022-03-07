@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### About Me
+* I am a full stack developer trainee
+#### Hobbies
+* playing football, reading books
